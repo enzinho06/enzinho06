@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bom dia e VAI CORINTHIANS ⚽
 
-<!--
-**enzinho06/enzinho06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Enzo Andrade
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/)
+- Estou estudando a linguagem JavaScript
+- Utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos
+  
+### Entre em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- enzoandrade0624@gmail.com
+
+![](https://media.tenor.com/E3gNlmd5zUoAAAAM/mater-scrape.gif)
